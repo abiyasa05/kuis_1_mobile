@@ -14,10 +14,10 @@ void main(List<String> arguments) {
 
   print('\n');
   //Tugas 3
-  String firstName = 'Abiyasa Putra';
+  String firsName = 'Abiyasa Putra';
   final lastName = 'Prasetya';
 
-  print(firstName);
+  print(firsName);
   print(lastName);
   print('\n');
 
@@ -52,10 +52,10 @@ void main(List<String> arguments) {
   print('\n');
 
   //Tugas 6
-  String firstName2 = 'Abiyasa';
+  String firstName = 'Abiyasa';
   String LastName = 'Putra Prasetya';
 
-  var fullName = '$firstName2 ${LastName}';
+  var fullName = '$firstName ${LastName}';
 
   print(fullName);
 

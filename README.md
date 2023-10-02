@@ -36,7 +36,7 @@ Output:
 
 <img src="img/run3.png">
 
-<h4>Penjelasan: Terdapat 2 variabel, untuk yang pertama yaitu variabel firstName dengan nilai Abiyasa Putra menggunakan tipe data String Kemudian untuk variabel yang kedua yaitu variabel lastName dengan nilai Prasetya sebagai final yang artinya nilainya tidak dapat diubah lagi. Variabel ini juga memiliki tipe data String. <h4>
+<h4>Penjelasan: Terdapat 2 variabel, untuk yang pertama yaitu variabel firsName dengan nilai Abiyasa Putra menggunakan tipe data String Kemudian untuk variabel yang kedua yaitu variabel lastName dengan nilai Prasetya sebagai final yang artinya nilainya tidak dapat diubah lagi. Variabel ini juga memiliki tipe data String. <h4>
 
 # Tugas 4
 <img src="img/4.png">
@@ -78,17 +78,7 @@ Output:
 
 <img src="img/run6.png">
 
-<h4>Penjelasan: Ada beberap variabel yang menggunakan tipe data String. Untuk variabel firstName mendefinisikan nilai Abiyasa. Dan untuk variabel LastName mendefinisikan Putra Prasetya. Kemudian ada juga variabel var fullName dengan kode '$firstName ${lastName}' ini berguna untuk menggabungkan nilai dari kedua variabel tersebut. Namun outputnya error karena variabel firstName dengan menggunakan tipe data String sudah dideklarasikan sebelumnya.<h4>
-
-Perbaikan:
-
-Mengubah variabel firstName menjadi firstName2.
-
-<img src="img/ubah6.png">
-
-Output:
-
-<img src="img/runubah6.png">
+<h4>Penjelasan: Ada beberapa variabel yang menggunakan tipe data String. Untuk variabel firstName mendefinisikan nilai Abiyasa. Dan untuk variabel LastName mendefinisikan Putra Prasetya. Kemudian ada juga variabel var fullName dengan kode '$firstName ${lastName}' ini berguna untuk menggabungkan nilai dari kedua variabel tersebut. <h4>
 
 # Tugas 7
 <img src="img/7.png">
