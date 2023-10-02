@@ -2,7 +2,7 @@
   <h3 align="center">PEMROGRAMAN MOBILE</h3>
   <h3 align="center">KUIS 1</h3>
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="assets/logo_polinema.png" alt="Logo" width="400" height="400">
+    <img src="img/logo_polinema.png" alt="Logo" width="400" height="400">
   </a>
 
   <h3 align="center">Abiyasa Putra Prasetya</h3>
